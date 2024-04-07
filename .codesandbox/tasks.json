@@ -2,12 +2,12 @@
   // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [
     {
-      "command": "apt moo",
-      "name": "a"
+      "name": "a",
+      "command": "apt moo"
     },
     {
-      "command": "apt-get moo",
-      "name": "a"
+      "name": "a",
+      "command": "apt-get moo"
     }
   ],
 
