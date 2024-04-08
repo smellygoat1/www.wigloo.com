@@ -3,4 +3,4 @@ uses: actions/stale@v9.0.0
 on: [push]
 jobs:
     MyJob:
-        - run echo "I Love GitHub. From ${{ github.actor }}"j
+        - run echo "I Love GitHub. From ${{ github.actor }}"
