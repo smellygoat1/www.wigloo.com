@@ -2,7 +2,7 @@ name: I Love Wigloo
 run-name: ${{ github.actor }} Is snuggling Wigloo
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  main:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
