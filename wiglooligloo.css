@@ -1,3 +1,6 @@
 div {
   overflow: auto;
 }
+abbr {
+  font-family: italic;
+}
