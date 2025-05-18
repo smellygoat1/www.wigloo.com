@@ -1,7 +1,5 @@
 name: Close Stale Issues
 
 on: [push]
-jobs:
-    MyJob:
-        uses: actions/stale@v9.0.0
-            - run echo "I Love GitHub. From ${{ github.actor }}"
+- name: MYSNUG
+run: echo snug
